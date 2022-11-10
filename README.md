@@ -4,7 +4,7 @@ A project about generating a readme.md file using Node.js
 
 This project had to meet the following acceptance criteria:
 
-a) User Story
+# a) User Story
 
 AS A developer
 
@@ -13,7 +13,7 @@ I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
 
 
-b) Acceptance Criteria
+# b) Acceptance Criteria
 
 GIVEN a command-line application that accepts user input
 
