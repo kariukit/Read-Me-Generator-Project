@@ -51,7 +51,7 @@ THEN I am taken to the corresponding section of the README
  https://drive.google.com/file/d/1YZUiwQZOY3xXccedq5GVMqD0YRO4JVLc/view
  
  
-d) The preview of the readme file
+# d) The preview of the readme file
 
 ![read-me-file](https://user-images.githubusercontent.com/108309963/201196863-9434cd57-7019-44cd-a0b7-3328e81f04bb.jpeg)
 
